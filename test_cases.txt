@@ -1,0 +1,31 @@
+Test Case 1
+Input: 95
+Output: Grade A - Excellent performance!
+
+Test Case 2
+Input: 82
+Output: Grade B - Great job!
+
+Test Case 3
+Input: 67
+Output: Grade C - Good effort!
+
+Test Case 4
+Input: 45
+Output: Grade D - You passed!
+
+Test Case 5
+Input: 20
+Output: Grade F - Keep trying!
+
+Test Case 6 (Invalid)
+Input: 120
+Output: Invalid input!
+
+Test Case 7 (Invalid)
+Input: -5
+Output: Invalid input!
+
+Test Case 8 (Error handling)
+Input: abc
+Output: Error: Please enter a valid number!
